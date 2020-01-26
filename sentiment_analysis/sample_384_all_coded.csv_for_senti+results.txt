@@ -1,0 +1,385 @@
+id	processed_text	Positive	Negative
+804084	It's great, got lots of shows, 5 stars	3	-1
+869576	Teacher Used the app to check on the status of my return. Information was received and processed quickly. I received my money exactly a week after filing.	1	-1
+425433	It was enjoyable and educative a good one.	3	-1
+855228	great way to send or receive money	3	-1
+1010397	the amount of ads is ridiculous.	1	-3
+371997	you can't do anything without having to pay 25 dollars a month! I only gave this app 1 star.	1	-1
+329345	its very awsome it works try it if you got kids with phones. #love this app!!!! just enter the your google account and your in!!!!!!!!!!!	2	-1
+501654	App is wonderful. Few complaints about the hardware. Get newer hardware, and tv remote doesn't power on/off.	3	-2
+39450	i don't trust this	1	-2
+49400	Unreliable! cannot find samsung wearable when connected by bluetooth to a samsung phone thats found by Galaxy Wearable app so its working. reset/reinstall dont help.	1	-2
+989583	want let me download the app cant get it all	1	-1
+467257	I have very good experience with tubi I really do appreciate them	3	-1
+582627	Without a doubt, the most confusing app ive ever used in my life. Amazon must have literally no design staff to launch something this obtuse and irrelevant for the task at hand. The most basic of tasks like changing wifi settings are impossible to find. Its constantly explaining how to do the most complex tasks i have no interest in using my echo to perform and leaves the important tasks indescribably hard. Terrible in every sense. The update for formalized what was already completely trash.	2	-4
+799770	PBS Kids Great app.	3	-1
+368863	terrible you have to pay for its just a scam	1	-4
+14474	Amazing! Normally I don't go for meditation apps because most are fake or don't work for me. As many times as I saw the ad on Facebook I can say, without a doubt, best app I've ever gotten!	3	-2
+852532	they stole 900 dollars from me	1	-2
+231119	Fun and challenging game!	2	-1
+1025199	ban the oders now!	1	-1
+748742	Great source of communication	3	-2
+174840	trying to pull up card. sick buying cold med n it forces me to update app.no option for later	1	-2
+580950	STOP WITH THE PURCHASE SPLASH SCREEN!!! I'm getting so tired of the iHeart app trying to upgrade to the paid for version... IT'S NOT HAPPENING! Make sure your play store settings require verification EVERY time for any purchase. This APP tries to jump to the purchase option every time it's opened. Over 100 times now I have told this app NO, but it won't stop.	2	-2
+1068956	this is very very super good game	4	-1
+457978	Absolute trash. I've been a member for a little over a year and the best it can do %90  of the time is 480p. We have a 400 Mbps connection, no other devices using the account, nothing hogging bandwidth in the bkg. Hulu is the only app doing this too. I also had to dl this on mobile because there's no way to review an app on Android TV. It's too bad I can't post screenshots of the atrocious picture quality I'm always getting.	2	-4
+111651	App is great!	3	-1
+368698	this made me see how i look when im old	1	-1
+201364	because you can be a super player	3	-1
+826496	Really helping me prep for CPACE	1	-1
+190176	soft to play	1	-1
+24540	you can't use what you earn on Amazon or PayPal	1	-1
+341013	Evry minute the divice is getting disconnected, this wasnt before, plz resolve the matter	2	-1
+129299	This app was so ridiculously over price, that i simply cannit afford it. The first three introductions weren't very good. every now and then, the teacher would lose focus and talk about some random fact about what famous people said about meditating. its like, um... NO! I want to MEDITATE, not write a school report on it	3	-3
+517484	yes it was amazing. all the films are in X ray. I like that condition. this was also useful for buying things. I like the payment due that is 129 RS per month. we can experience so many movies. all the movies are in HD I like this.	3	-1
+327233	Great app! Unpaid version is pretty basic but serves all the purposes I require.	3	-1
+200883	it is a great game just too many ads like I can't play a game without seeing one	3	-1
+63168	have not tried it but im willing to	1	-1
+63888	Super easy to use and follow!	3	-1
+594078	The UI is not laid out in a way that is intuitive, much like Alexa herself. You have to think creatively and ask your questions 4 different ways in order to find things. Finding podcasts should be much easier and have some ability to make a playlist. The search function in general is terrible and often causes the app to crash.	2	-4
+588321	Best app ever, I got my new alexa and this helped a bunch!	2	-1
+406135	The option are amazing!	3	-1
+536868	background play is not available in free version,its better to use normal youtube instead of installing it.	1	-1
+189926	Bunnings and simulator server your one	1	-1
+459893	I do not like the new update as of 3/19/19. We are a strictly Hulu Live family. It has changed the shows we see to their line up (shows they are pushing) versus our previous lineup (shows we watch on a regular basis). We miss shows we would normally watch but we haven't added to ''my stuff '. Since we do not have cable, this has been a detrimental change for us.	2	-2
+113544	Might as well be a charm bracelet. The app keeps telling me my password is incorrect but I can log in on my computer with it. Tried restarting my phone, password, uninstalling then reinstalling the app and I still can't get logged in on my phone. It was working well until the last update but now it's kinda useless and customer support is even more useless. I'll revise if they can get it working again but otherwise I'm demanding my money back and going with one of their many competitors.	2	-3
+891765	so far ok. my 1st time using	1	-1
+244900	It was trash can never load into the game so if u try it be ready because it might not let u play the game if they fix it this qhould be better but until then im never geting it again	1	-2
+447402	so far i am really enjoying this app. only thing i think could be improved is the kids tv section. lots of thr oddball shows not a lot of the ones my little grandson likes I	4	-1
+118145	It's a crap thing.... Only to make money. Better spend time with family ... You'll feel happy, supported and all above you'll be satisfied.	2	-3
+42318	great app for counting steps everyday. set a target of 10k per day and saw the difference in my physic. helps me keep my weight in check!	3	-1
+222918	this is fun weeee dont die by leah	2	-3
+897261	Best customer service ever in an app. 10/10 recommend	2	-1
+507812	even better than the traditional remote	1	-1
+667632	Great app! Absolute must at colleague	3	-1
+1052242	I love it and my brother love it so so so much	3	-1
+535016	Update the change log	1	-1
+953201	The only thing that seems to be an issue is I cant always send or receive money from people who already has zelle. I get a message stating that they don't	1	-1
+836172	It is awsome	1	-1
+99055	It is great	3	-1
+231054	it's a relay good game	2	-1
+476918	I love all the movies even the new ones that come out stars is one of the best shows that can be on TV and on your cell phone	3	-1
+686490	works great for groups	3	-1
+508509	easy to use	1	-1
+875472	It actually works very well. I use it each year.	1	-1
+654148	I only use it on a desktop but I have experience with the app, enjoyable. I love the underground supporting movement	3	-1
+734916	Yay the duolingo bird didn't kill me!	2	-2
+560867	to many advertisement but i like the music but not the comercul.	2	-1
+1091586	this game is boring to the beginning to the end	1	-2
+609260	great. love it	3	-1
+916998	if you are trying to fix your credit. this is the way you could it instead of paying a company to do it for yourself.	1	-1
+375302	i give it 5 stars  ..because this app deserve it	1	-1
+991691	This is the best app ever. It was about time an app was created just for this reason. It cuts out the phone time and the remembering the password and having to look for your card everytime you need the balance or some kind of information that you can now refer to on this app. As long as you don't need to speak to anyone, all your info is on your phone. Thank you to whoever FINALLY thought of this. WAY OVER DUE!!!!	2	-1
+835757	Its amazing you get to make your own questions it's like making your own YouTube video	3	-1
+300202	nice game and intresting	2	-1
+766899	The app won't even open.	1	-1
+17138	Very deceptive, not free at all. Please be honest and move to the section for apps that need to be paid for	2	-3
+664316	This is a really good app despite that most songs are short.Other than that its performance its fine	3	-1
+1003794	this game is trash im blocking it on this ipad	1	-2
+559099	my favorite music stations	2	-1
+88301	accurate and awesome	3	-1
+392222	to many ads freezes your phone i wouldnt recommend	1	-1
+131968	Even big players like Netflix or Spotify don't call monthly prices that high. And they offer muuuch more content. That's simply impudent!	2	-1
+126538	I had my fist session, Perfectly the best i suggest it to anybody	2	-2
+14825	"I love this app! The guidance's amazing and just hits the spot. I've downloaded it to learn how to manage anxiety, but I've found so much more! I'm meditating several times a day now, and don't even have to push myself towards it, because it's a pleasure. I only wish I could save whole collections into favourites, and also it'd be great if in every collection it'd show which tracks I've already listened to, like in ""7 days of ..."", save for those with one topic but different durations."	3	-3
+561179	it is realy good and i like the way it gose by the music you choose in the order you got them	2	-1
+699589	I like that I can talk to the teacher and she responds pretty quickly. It's like texting with a quick response.	3	-1
+498931	We ALL KNOW Most Apps Suck... BUT (!!!) Not This One !!! I Love the Convenience, I can Use my Phone ( app) to work the Roku Device and Look up Stuff on All my Channels.   Cast All my music, Videos Pictures and Personal Vids. off my phone To My T.V.!!! Love It !!	3	-2
+540740	Change isn't necessarily a good thing. Unfortunately red was simply and easier.	2	-2
+662204	it has all my favorite songs.	2	-1
+733398	love this! better than a mindless game.	3	-1
+1113703	I really love this app. I play it every day. But over time I noticed that it uses a lot of battery. Please fix that somehow? Also, please consider that not everyone lives in the northern hemisphere!	4	-1
+908922	Love it	3	-1
+54420	I love it but it needs more in food variety I can't find a lot of the food that I eat. home made and restaurants around me. I have to search online then add it to my app.	3	-1
+852281	They don't allow you to use a google voice number.	1	-1
+580794	LOVE IT	3	-1
+920562	very useful, gave detailed information on credit score and also recommended cards that had favorable odds of getting. was able to open my first card after years and improve my credit even more!!!	3	-1
+546735	Was a fantastic platform but new update renders it virtually unusable	3	-1
+1106284	This is a really good time waster.	3	-2
+954199	worst payment app ever good luck trying to verify your account	3	-3
+289566	they need to fix the tanks shots	1	-1
+249135	I think this is the most useless game ever because it will take a lot of GB and it's suck.	1	-3
+727631	Exceptional learning experience!	1	-1
+902234	app does not update unusable as it is installed.	1	-1
+1018108	it was so cool	2	-1
+809141	Lots and lots of fun. Yay.	2	-1
+544887	i love it.i can be aware of new music by checking into it and other news too!!	3	-1
+415905	thanks for the update	2	-1
+335389	I love the fact that my child and I can locate each other.	3	-1
+684424	This app makes staying in touch with my daughters teachers so easy.	1	-1
+462264	I Love that most of the horror movies I grew up in are here!! Also the Super Sentai series!!	3	-4
+1000089	i want to be able to have access to my mail and i cant this app suck	1	-2
+971323	I love the new design.	3	-1
+1083881	i like the graphics and how you get to unlock things	2	-1
+137900	best app but it shows too much adds	2	-1
+735414	I knew some French but needed help and I find Duolingo very helpful and it teaches methodically not rushing you. Highly recommended. Thank you Duo!	3	-1
+319177	Very beautiful app, excellent and good for all the singles.	4	-1
+2036	Not free and not worth  60. I don't understand how this app is an editor's choice.	1	-1
+135783	Love this app Worth the subscription in my opinion	3	-1
+75401	it helped me to control my daily food intake	1	-1
+676338	Awesoommmmeee app i love but he can't fix word problems	3	-2
+615373	It's alright. My biggest issue would be how much they advertise for Unlimited. I already pay for Amazon Prime. That's already a lot of money a year, so for them to keep advertising to give them even more money is a pretty big slap to the face.	3	-2
+720999	I have really enjoyed using this app. I cant believe you can get this level of education for FREE!! THANKS DUOLINGO	4	-1
+674010	Great app that gives you great answers	3	-1
+799679	Wonderful app I use this everyday. My almost- 2yr- old loves this app!! All the videos are interesting, funny and educational.	3	-1
+1091098	its fun making the food and stuff but i dont like it when they throw up	2	-2
+401830	It is very.useful	2	-1
+1054150	last time today I want this games in this is like so cool but sometimes I'm really bad at that game.	2	-3
+823283	I am super happy with this app. I have a really hard time studying. I love as to how many different ways as to how you can study. One thing I dont really love about it is that you have to pay for it to get the better stuff. Other than that I will keep using as a free member for now.	3	-4
+121507	It helps me focus and also if needed helps me sleep. Very calming	3	-1
+193146	this game is awesome!!!	4	-1
+67338	Effective and awsum app to stay in shape..	1	-1
+992875	very helpful and easy to go to for your transactions that you have made	3	-1
+330470	this app is so fun cause you can see were people are	2	-1
+91054	easy to use	1	-1
+786732	it's good because I could find my peeps on Tik tok	2	-1
+688705	I love this app! It is great for parents and kids! Every teacher needs this!	3	-1
+705198	I am able to learn Spanish, although they offer many other languages, at my own pace. I am able to learn reading, speaking, and writing Spanish. the methods used seem to be sticking a lot more than those they had in high school. I'm extremely happy with it. There is the free version, which has ads. Or for a monthly fee you can go ad-free and also be able to use the lessons offline I believe. I am using the free version and I'm happy with it.	4	-1
+773372	I tried to sign up for the app but when putting my billing information it would not let me enter letters for my postal code only gives me the option for numbers. So disappointed.	1	-2
+770961	This app dont want me to get in	1	-1
+1395	awesome app instead of searching you tube for sounds or something to help me sleep this app really does have it all, thank you it's actually made my life better especially of you follow the meditation sessions	3	-1
+795254	it is good for little kids and i am glad it is	2	-1
+989110	it informs you so you don't need a receipt	1	-1
+1038059	I keep thinking it's the adult youtube	1	-1
+465688	very good movies in my opinion	3	-1
+425384	nice job Felicias proud of ya	2	-1
+892180	great app best way to send and transfer money at zero to no cost	3	-1
+1061400	i love it her face reactions	3	-1
+266295	I think that this game is a great time killer when I have nothing to do.	3	-2
+945142	Sometimes this app is unreliable. Its starting to be a 50/50 chance it works. In the last week, I've had to un-install and re-install this app more than usual causing me inconvenience and frustration.	1	-3
+27458	"It seemed like a good deal when I got it, but most of the offers are unreasonable. You only get  1 for 1,000 steps, and most stuff that are ""free"" are either way too expensive or something you would never use"	2	-3
+488457	good very good had a great experience	3	-1
+347660	cannot cast screen to chromecast. useless app, chromecast pointless now	1	-3
+442054	Hulu is amazing. I can't believe I wasted so much money on cable for so long!	3	-2
+626154	it so fun i love the music	3	-1
+772345	5his help my kid to learn	1	-1
+711363	great app to learn other languages.	3	-1
+931436	fingerprint option doesnt work anymore	1	-1
+678231	Thank you for creating an app like this!!	2	-1
+368867	cause u have to pay for this app	1	-1
+958762	Sucks wouldn't allow me to add my bank info	1	-2
+368510	I hate that you have to pay a subscription to be able to do must of the things in this app. When I saw the ad it showed me things that you have to pay to use, and that's not ok.	1	-4
+295777	not to bad of a game	2	-1
+765697	Too expensive.  60 per year	1	-2
+522216	India is a country with immense linguistic diversity. Most of us doesn't understand more than two or three languages. Amazon prime video app is not considering the fact and tries to push all videos in all languages to subscriber's stream. It's kind of annoying because some preferred videos missing in the mess. Amazon should learn from Hotstar which allows user to select their preferred language(s).	2	-3
+832004	It is still good I play this at school	2	-1
+388739	I enjoy this app. It has a lot of informative ads. I have seen a lot of products I might not have seen otherwise. Thank you	3	-1
+135165	All the meditation segments are the same	1	-1
+50299	Simply a fantastic App.	3	-1
+218704	its so fun	2	-1
+458042	Good movies. Need less commercials.	2	-1
+668693	Easy to use.	1	-1
+787757	Good App for school	2	-1
+263382	INAPROPRIATE BECAUSE SOME KICK THE BUDDY MWTHOD ELECTRIC CHAIR REAL EXICUTE METHOD IN THE WORLD THIS GAME FALG INAPROPRIATE	1	-1
+172847	It doesn't work. Sorry.	1	-2
+238554	I Love you	3	-1
+953192	I have this app for like a while now and trying to open an account. Everytime i try there's an error. And now i tried again. Still bad. Stuck at the verification for 2 days now. Use Venmo, much better.	2	-2
+326090	this is so easy to know were the person is	1	-1
+452132	cannot get through on phone says no. is invalid but I called it this morning and spoke to agent about changing my bill payment date.	1	-2
+457572	terrible to many ads and you cant even skip them.	1	-4
+1065522	THis GAME IS REALLY AMAZING	4	-1
+625127	Why I try to make good music when I recorded it then it felt better	2	-1
+957813	Want's too much personal information.  Missed the documentation about it being purely person-to-person and they would not accept our social club's businesscard debit card.  Pain in the 6th-point-of-contact to get in touch with their tech support to verify why it would not accept the card, then delete my account.  Once I figured out how to get a human being, was able to inactivate the account, and hopefully it gets deleted as they said in 24 hours	2	-4
+86390	Love this ap use it along with my Ww and intermittent fasting.	3	-1
+923284	Its easy to use.	1	-1
+505612	better than expected	1	-1
+979704	Keep it simple. The old bill pay was superior. Erica is not needed. I use the app for banking, not to be entertained. I want quick access to my data, do simple transactions and that's it. Please don't add dancing cows next update.	3	-1
+639590	This app is doing well. What I like you to implement is the possibility of casting through Chromecast, and set a timer.	2	-1
+1083938	Really fun and a great way to meet new people	3	-1
+794352	Its a master piece my son loves it his favorite is Daniel tiger neighborhood	3	-1
+553574	"can someone help? i am only able to download an entire podcast if i press the little download button on every single episode. i looked up the question on google and found: ""To save an artist's entire discography you would have to click the "" "" next to every song to save it to your ""songs"" section which also will save it under Avicii in the artists section. Or you can add every song to a playlist."" this seems really unreasonable, especially considering i signed up for the paid plan."	2	-4
+374819	thank you	2	-1
+297049	it sucks ur guy looks stupid and it sucks so bad they couldnt get more than 4 people in my game.	1	-2
+470506	great selection of everything	3	-1
+750324	I hate it because every time the teachers always snitch. On you	1	-4
+16901	you have to pay for everything not worth the money free app and not free to use	1	-1
+56641	"Upgraded to latest version 6.2.0.075 & now have several bugs in phone software. Health app data is useless. Samsung Health customer service says they are aware of issues but have no downloadable fix. Syncing phone does not resolve. Now must go to physical store for refresh, which ""might or might not"" cost me money?!  :-("	2	-3
+154692	Says its free but then on the third day u have to buy in order to keep   tracking your food. EDIT: I ended up paying for the app because it's BY FAR   THE BEST TRACKER OUT THERE. It stinks I had to spend 40 bucks (and also   don't have the option of paying monthly) but it's the best product on the   market so I guess it's worth it.	2	-3
+1058259	I think this game is pretty cool.	3	-1
+466274	Free and good quality!	2	-1
+162347	Using the free version. Easy logging. Good visual aids especially a weekly graphic of calories. Excellent app.	4	-1
+726332	I took a beginning Spanish class at the local community college and ended up dropping it. Beginners Spanish was not really for beginners. This app is perfect for anyone from beginner to someone brushing up on their skills. I love that it lets me work at my pace, snail, and doesn't make me feel like a failure.	3	-3
+488297	This is gud	1	-1
+209982	I like I because it looks,cool	2	-1
+934074	does not work with android Q beta. pls fix	1	-1
+1064950	Awesome But There are Rake, Rule, Spawncode,Kelly And i heard its 2 more! Its really creepy please do a anti hack thing	3	-2
+584953	I opened the app and it kept telling me to update chrome but when i would, chrome was already up to date and I couldnt open the app. please try to fix this!!!!	2	-1
+838063	It said I was incorrect but there are no wrong answers	1	-2
+324011	great way to keep families safe	3	-1
+1070370	I love the graphics, game play and everything else! I just wish it's wasn't so hard to change animal. Can you also please add more animals to be? Maybe a zebra? An African update! OooooooOoooOoooOooooOoooOooOoOOOooooo that would be so cool! Also, I got a bunch of cool accessories on my account but then my phone broke and i was locked out of my account. Its been a while now, I can't even remember my username	3	-2
+662547	the best in all music	2	-1
+170346	very fast and easily accessible	1	-1
+340552	This app has lot of issue, pain in ass to use it	1	-4
+435756	Not accepting indian debit cards	1	-1
+99531	issues connecting to device	1	-1
+572777	THE BEST APP EVER MADE!! 5/5	2	-1
+956132	DO NOT USE THIS IS A SCAM!!!! AND YOU WILL HAVE ABSOLUTELY NO REPERCUSSIONS FOR GETTING YOUR MONEY BACK!!!!! DO NOT USE!!!	2	-1
+600860	great app. haven't had any problems and 6 people for 15 bucks a month offs awesome.	3	-2
+665498	thanks for the application	2	-1
+201983	Is a great game but im having an issue where i am playing 5 match sets not a 2 minute game, needs attention.	3	-1
+236342	its no wifi and its easy	1	-1
+473065	good except for the adds overall is a good free movie TV shows	2	-1
+905036	Love paypal! It's so convenient, and I feel safe sending/receiving money!	3	-1
+620062	it is the best for and download it guys make beats and be a star	2	-1
+39816	Worked for one day, then stopped counting steps	1	-1
+1117513	it is amazing I love pixel art: color by number it helps me become more creative when I have nothing to do!!!!!!	3	-1
+890297	I usually don't write reviews but for this app I had to make an exception. This app and the corresponding card make managing money today much simpler. The support from Square is excellent and personal payments mske splitting bills headache free. I love that I no longer have to carry cash.	4	-2
+1826	So far I have used the app nightly for a week. I have mild TBI and PTSD that I've suffered from an accident nearly four years ago and since then I suffer from chronic sleep deprivation. This app is helping me to fall asleep as well as helping me go back to sleep as I wake up throughout the night or when I have episodes of nightmares. So far I have only tried the soothing nature sound Audios.	1	-4
+462508	didnt like the ads that pop up through out the movie..otherwise perfect.	2	-1
+471315	great old movies, great scary movies, and great silly movies etc	3	-4
+208515	bad. the guy with the ball just went through me and they were always 10X as fast	1	-2
+746389	I love the app	3	-1
+200409	it is awesome I can't explain it	3	-1
+45174	no longer displays on lock screen hopping a negative review with force action to fix that problem, otherwise great product	3	-2
+150726	I get a threat when I scan for viruses APK:RepPo [Trj]	1	-3
+579798	low bandwith few commercials if u like ur list stil A 	2	-2
+454110	"Just watch TV? After every 30 minutes of content the app loses connectivity and have to ""retry."" to resume. Oh, and then the insidious commercials which start out short, then gradually lengthen, eating away at your soul. I signed up because it was a free perk of Spotify Premium service. If you hate being forcefed obnoxious, repeating, eye-wateringly stupid television ads, avoid downloading this BS app."	1	-4
+182624	my favorite and most useful app	2	-1
+938368	finger print doesn't work and to slow or pending is a few days off	1	-1
+363946	set up to switch my TV on after arriving home. it's not working so don't see any reason to invest more. money to other smart things	2	-1
+311780	Its ok I guess. To me works better then all the other dating apps	1	-1
+365236	the selection of smart home devices pale in comparison to Google Assistant. Please add Eufy and Geeni products to smart home functionality for 5 stars.	2	-1
+8176	I have used this app twice. both times I enjoyed it. I am now set up to use calm during my 15 min break.	3	-1
+601027	Its great love this!	4	-1
+285982	better than fortnite	1	-1
+749795	to tell how people behavior is	1	-1
+75065	great app for weiggt loss. seems to have q greater inventory of foods than other apps i have used.	3	-3
+977648	i love this app	3	-1
+406868	good app. they need to improve the way the notes are catagorized. it would be nice if you could create sub folders instead of just have all the notes on one page and have to sift through them.	2	-1
+887365	very useful convenient it saves time and gas it helps me to send to my children in other states	3	-1
+62242	these app is really good	3	-1
+504801	the app wont open on my Note 9 from tmobile. It is just a white screen with the logo. please fix	2	-1
+929978	I'll give them a 4 b/c they have 2 scores available for you to see and they're helpful and areas that you lack knowledge of.	2	-2
+480167	this is sooo bad it is dodo	2	-2
+20790	Was charged to my credit card before I thought it should. It's my fault but it still wrong. I thought it was a 14 day trial period.	1	-2
+584148	If you fixed the freezing on the skills, then I'll rate it 5 stars	1	-1
+887193	very convenient.. would have given 5 stars, if the app didn't experience overload times	1	-1
+1043015	aaaa stop bugging with rate me on store	2	-1
+941395	constantly locks me out and can not recognize my finget print but what choice do I have. fix your terrible app!	1	-4
+261697	is you down for two days I'm going to watch you up cuz it's the only time I'm going to shoot you on your head cuz he's dumb but look just like your what are you doing that since you don't think I'm going to try to	1	-2
+1044862	Love the game.	3	-1
+585648	Just got a new Echo. Can't even get through the setup. keeps kicking me out of the app when trying to connect WiFi.	1	-2
+987975	makes things much easier for you	1	-1
+457167	I pay for the no ads version plus live tv and I'm still constantly seeing ads on shows I watch through the app. Even when I trouble shoot the app I still get ads on shows. Not to mention that anything I watch doesn't appear on my watch list so everytime I want to finish a show I have to start over. Absolute garbage for  48 per month!	1	-3
+601279	Love it! Easy to find any genre, artist, album or song. Even snippets of songs usually brings up what I am looking for. I am completely satisfied with this app.	3	-1
+453716	why would you take of the Divergent Series....u shiuld have some type of warning saying that movies are leaving soon or something...that made me rly mad	1	-2
+105101	really helpful gadget that keeps my health on track.	3	-1
+98595	"""female"" tracking feels like afterthought the calendar to track menstruation is buggy. the drag and drop period calendar is hard to use. doesn't always drop where you put it. and the ""symptoms"" they list are too few. nausea? back pain? what if you want to add a note? or your own symptoms? nope. there are many better apps for this. also can you change the black background on the watch? I haven't figured out how to. my husband's samsung watch has tons of backgrounds. the app is almost useless."	2	-4
+881388	Can't even get the thing to download !! Breen trying to download for 3 days now !! Just keeps loading	2	-1
+357853	my TV not once first use of the apps. everytime i need to reinstall the app and again connect the tv. Not saved my tv as a old device. previous version has no problem. after updates its not stable! disappointed	2	-2
+977277	Easy to surf and find items	1	-1
+65686	great easy program, some exercises are tough, but has really helped me, and i do not exercise.	3	-2
+603592	great music, easy access, lots of choices!	3	-1
+284628	Luv I play every time I am in court	3	-1
+629	one sound for free version.. you have to give some more to make me buy the rest..waste of time	1	-2
+300798	Very good game Excellent shooting and excellent mission	4	-2
+688181	great and helpful app for school	3	-1
+1050468	I love this game so much	3	-1
+1039943	since youtube dont care enough to take these videos with the MoMo challenge lady down and find her amd prosecute her when she's telling kids to commit suicide as a challenge me and my wife and everyone we know are deleting the YouTube kids app and will no longer allow our kids to view youtube content of any kind. Youtubes owner has a suprise in store for them, I cant wait!	2	-4
+698764	said they will stop servicing verizon customers- works great for our class so hope they don't!	3	-1
+879781	"Strictly an app to help you ""locate your tax return!!! Easy and convenient"	2	-2
+138595	too much advertisment	1	-1
+1067067	i like it but there needs to be more land and time like fall and spring or like the big pine forests and rocky mountins	2	-1
+872632	Good app Installed to ck on my return, it was very accurate, return took 2 weeks. Was in my acct the day before irs app said it would. Now, loading again to ck on my boyfriends return. No problems, with crashing, freezing, or anything. Also, they update nightly, so checking multiple times in a day doesn't make a difference.	2	-2
+716012	The best app	2	-1
+1033538	yeah i love this i made new friends with this game	3	-1
+98370	Fitbit app is a great guide for me. Set goals that are achievable, in exercise and the food tracker helps.	3	-1
+93124	This app has been amazing for counting calories for me! It's really intuitive and easy to use. I love being able to scan barcodes and search for basically anything. It's really easy to create new entries and add my own recipes too. I like the goals it sets and I love that it calculates my projected weight in five weeks based on what I eat each day. I haven't had luck linking it to map my walk (probably user error), but I haven't really minded because they both work well on their own.	3	-2
+613702	"I pay for Amazon prime,& this app is supposed to be free,with my prime. well it's free, I can download music,but then it starts ""blocking"" various songs I have ,& require me to pay for the unlimited version in order to receive the music, so basically it only gives you the music for a short time,then deletes it if you dont upgrade! Not happy!!"	1	-3
+150006	Great app works for me	3	-1
+375376	Almost everything is locked.	1	-1
+321428	This app does not update locations as it should. Even when i refresh it. It's pretty frustrating trying to locate a family member in case of an emergency.	3	-3
+789900	It's it's good for a kid like me to watch this kind of stuff it's kid appropriate.	2	-1
+579320	soothing and good listening.	2	-1
+190375	IT KEEPS LAGING EVERY TIME I PLAY IT KICKS ME OUT	1	-2
+741830	I really think that teachers should use this	1	-1
+632897	App broken since last update, this update not fixed. Nokia	1	-2
+384060	This app creates glitches and errors at times of good wins n bouses never gonna win jack!!! always freezes right b4 ginna hit 20,000  spin n cheats you. Keep losing my vip elite n vip statuses cuz every now n then it wont load for a week straight some times more, n I try offten daily... paper n mail was more reliable. I build sites and apps n this one has waaaaay too many issues for me.	2	-3
+89766	I still get notifications of people trying to log in to my other accounts (twitch, google etc.) because myfitnesspal (or under armour?) leaked the login data of 150 million user accounts.	1	-1
+428544	month charges are very high	1	-2
+197565	addictive and fun	2	-2
+669439	it is awesome and gave me the confidence I need for math	3	-1
+399259	its good for my needs	2	-1
+217208	it's fun but I didn't know the blue kills you but the rest is awesome	3	-1
+787633	This app is great for schoolwork to finish at home and helps keep up grades	3	-1
+401367	The most efficient , easy, organized way to create and access shopping lists , memos , and notes for everyday use!!!	2	-1
+101706	Very accurate on steps and distance for better calorie logging. For daily activity and sleep tracker it is better than my Garmin runners watch and vivosport. Garmin is better for tracking training info. Flex is slim for better daily wear comfort and love it is water proof.	3	-1
+435395	The app is amazing 5stars	3	-1
+739886	it the best	2	-1
+824453	It doesn't want to open	1	-1
+989869	i really like this app. very user friendly and uptodate!!	3	-1
+697803	Love this app! Very easy to get in contact with my children's teacher's! Even if it's a Last Minute thing that I need to tell them! I've personally Never had Any Issues out of Remind!	3	-1
+913642	good app, easy to use	2	-1
+757231	It is very educational	1	-1
+457964	not free......wants money in 30 days...not what I want	1	-1
+598217	My Alexa doesn't stay connected. It used to great but its a pain to set up every time I try to use it!	3	-4
+691002	I love this app keeps me update with everything at school with my kids.	3	-1
+942552	Good app overall, easy to navigate and has lots of useful info regarding your accounts. I would like to see them add a running tab of the balance next to the purchases and payments though.	2	-1
+710338	this app i great you need to get this app.its very helpful it tells you how to pronounce....its just a good app.	3	-1
+254997	so much fun. Releases my stress	2	-2
+1098984	umm I think that you could add more peole on and my complain is that you cant make a sandwich and a cake it would be cool if you could do that onto my complain it takes alot of stuf on your phone to download this app but the app isent even important my 3rd complain is it take a long time download this app	2	-2
+805254	Reason why was because no Thomas and friends plenty of people still like Thomas my little we be so sad now unless u change it now me and my family won't be viewers at anymore	2	-4
+1010460	I LOVE THIS GAME !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	3	-1
+1113454	"This app is absolitely awsome, you get to ""color in"" pictures pr take them and color them in this app is recpmended by me aspecialy if you love poctures and easy relaxing things."	3	-1
+245065	this is a awesome game everyone should play this	3	-1
+231457	I'ts cool and supper fun	2	-1
+1115478	this app was very laggy fun but laggy idk if others had this problem but i did	2	-2
+518827	picture and sound quality is good	2	-1
+1015318	Very fun, very challenging like a 3D puzzle although way to many adds.	3	-1
+70659	Great App. Love it	3	-1
+373428	you have to pay for it what app is that	1	-1
+886733	why the hell do we need a unique cashtag to set up an account??	1	-2
+569227	good alarm clock that's all its good for	2	-3
+897042	i got into another persins acaunt	1	-1
+860716	Makes paying friends easy	2	-1
+836308	I RECKAMEND this game it is fun it teaches you I like it	2	-1
+363032	Bluetooth dashboard disappeared!	1	-1
+638681	keeps skipping past all the songs. new phone and none of my purchased songs have stayed on my apple music	1	-1
+700216	Remind is easy to use and a great way to stay connected with parents in my preschool class!	3	-1
+477816	Just needs a little more movies to one of the best	2	-1
+661800	All kinds of music.	1	-1
+1017125	you have to try this app	1	-1
+849655	great easy fast	3	-1
+105769	well pleased.editorial content excelllant	3	-1
+594633	"Amazon tried to showe much down my throat. it used to be great now it's trying to be something more than it is. ni i don't want you to be my default ""assistant"". no I don't want a random remix of the song because you have some stupid contract. Just let me serch music well and control the echo and fire well and that's it. it's so bad now I am uninstalling. so there you wanted more of the share of market now you get none. this war for information is getting sad. AWS has everything already. stop it"	3	-4
+867405	AMAZING It followed my refund exactly! It came when it said it would. Definitely a great app. Thanks	3	-1
+877192	Awesome app It works great!!	4	-1
+308667	i see your logo throbbing at me.	1	-1
+841003	This game makes me wanna Ka-Shoot myself.	1	-2
+64308	same workuts can be found anywhere on google or youtube. Don't need to download, just do a bunch of jumping jacks and you have it.	1	-1
+133956	Great app but i dont like the fact that there is a 9.99  yearly student subscription only for US students. The regular prices are kind of high. Of course I understand the importance of mindfulness in one's life but younger adults usually won't be able to afford this range of prices.	3	-2
+695851	I'm so glad this app exists. It makes communicating with our child's teacher so simple and fast.	2	-1
+579370	Music is a release, IRadio has whatever stress reducing , smile inducing, thought causing song for your exscape. Enjoy	3	-2
+1030473	This is so cool	2	-1
+1034378	The app is really nice. Is there any way to select language? I want my kid to watch only videos only in English	3	-1
+983226	Bank of America apps are always very user friendly. This latest version is the same. I use the mobile app all the time.	2	-1
+325976	work like a champ. i have 2 circles.	2	-1
+210946	0/5 stars. Gameplay is bad and after update. have to win 5 in a row to progress. Friendly AI doesnt do anything so if the enemy gets passed you, the player, you're done and you get set back one match of the five. Even when you get a boost the enemy is just barely fast enough to get to the endzone before you can tackle him. I feel like they made it harder so you lose more frequently so you have to watch more ads. Even though you have to watch an ad after every TD already anyways. Do not recommend	2	-2
+5849	No free app. Some free content very hard yo find. Deep medication app totally free and just as good.	2	-1
+428214	good for saving data of favorite games	2	-1
+341063	im just trying to get back to my icon pages	1	-1
+73830	easy to use and it works!	1	-1
+471932	I was watching a zombie movie titled Warm Bodies. I made it to you about the last 20 minutes in the movie disappeared. that was a huge bummer. now I never know what happened :-(	1	-2
+266359	Jfh de code this :so dirty I ever seen	1	-2
+370089	i have to pay for everything	1	-1
+98837	works well. sometimes when I open the app it shows a ridiculous number of steps (300,000 ) if I sync then it shows the correct amount. oddly, the miles shown are correct.	1	-3
+202049	dghjj what is your address so I can send it to	1	-1
+1044108	Youtube is cool	2	-1
+870674	Very good resource, to ask question u need answered. It also is a very good app to help you track ur refund.	3	-1
+248493	it a very super game	4	-1
+1020142	It's amazing and really fun	3	-1
+111628	app itself is fine, but communication with the ionic watch is terrible, drops often and for the past week no notifications have gone to the ionic	3	-4
+1065704	great, its the game ive been looking for.	3	-1
+103264	Logged me out and wouldn't let me log back in. Very upsetting.	1	-4
+637080	it is not free	1	-1
+944978	not to good. too much updates	1	-2
+186591	it's awesome as man gotta give this a try for anybody who likes this kind of game	3	-1
+399337	Very easy to ise	1	-1
+19055	Its a wonderful App,you will feel as if you are attending the session personally and I feel great after every session.Thanks	3	-1
+205366	great and fun	3	-1
+373221	Its a scam it doesn't work the beauty scan just uses a generic face detection so you can't trick it the scores are random	3	-1
+696650	love how it enables communication between the teacher and the rest of my class	3	-1
+636806	Please bring share to instagram story as well	2	-1
+895125	I've written to CashApp support several times without a response. My account is closed due to a charge back I have no idea about. I attempted to contact them back to resolve the issue with no success. My wife canceled the charge backs and the amounts were debited again.	3	-2
+354541	Update was horrendous. Can no longer link my devices which was so easy before. I cant mirror my phone anymore through the app to my Amazon Fire Stick. So bad I've deleted the app it's of no use to me now after the uodate	1	-4
+332893	Works great for seeing where my family is. I get the peace of mind in knowing my children arrived safely to their destination.	3	-1
