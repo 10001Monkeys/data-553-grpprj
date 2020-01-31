@@ -1,0 +1,11 @@
+cfg_id;bow;bigram;lemmatize;remove_stopwords;rating;length;tense;sentiment1;sentiment2;db_comment_column_name;Mean_Precision;Mean_Recall;Mean_F1Score;Mean_Time
+bow-lemmatize-remove_stopwords-rating-tense-sentiment1;True;False;True;True;True;False;True;True;False;stopwords_removal_lemmatization;0.5441176470588235;0.9487179487179487;0.6915887850467289;8.291000127792358
+bow-rating-sentiment1;True;False;False;False;True;False;False;True;False;comment;0.7058823529411765;0.9230769230769231;0.8;11.531999826431274
+bow-bigram-remove_stopwords-rating-tense-sentiment1;True;True;False;True;True;False;True;True;False;stopwords_removal;0.5873015873015873;0.9487179487179487;0.7254901960784313;11.039999961853027
+bow-bigram-tense-sentiment1;True;True;False;False;False;False;True;True;False;comment;0.8292682926829268;0.8717948717948718;0.85;14.217999935150146
+bow-bigram-lemmatize-rating-tense;True;True;True;False;True;False;True;False;False;lemmatized_comment;0.8947368421052632;0.8717948717948718;0.8831168831168832;10.568000078201294
+bow-rating-tense-sentiment1;True;False;False;False;True;False;True;True;False;comment;0.6666666666666666;0.9230769230769231;0.7741935483870969;11.532999992370605
+bow-lemmatize-remove_stopwords-rating-tense-sentiment2;True;False;True;True;True;False;True;False;True;stopwords_removal_lemmatization;0.5352112676056338;0.9743589743589743;0.6909090909090908;7.88700008392334
+bow-lemmatize-rating;True;False;True;False;True;False;False;False;False;lemmatized_comment;0.7659574468085106;0.9230769230769231;0.8372093023255814;8.25599980354309
+bigram-rating-sentiment1;False;True;False;False;True;False;False;True;False;comment;0.8235294117647058;0.717948717948718;0.7671232876712328;1.3389999866485596
+bigram-lemmatize-remove_stopwords-rating-tense-sentiment2;False;True;True;True;True;False;True;False;True;stopwords_removal_lemmatization;0.5342465753424658;1.0;0.6964285714285714;1.0309998989105225
