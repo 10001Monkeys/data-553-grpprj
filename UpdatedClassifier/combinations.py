@@ -75,6 +75,34 @@ def get_combined_cfgs_journal_version():
     cfg = combinator.get_classifier_technique_config(bow=True, remove_stopwords=True, lemmatize=True, rating=True, tense=True, sentiment2=True)
     key = combinator.get_key_for_classifier_config(cfg)
     toreturn[key] = cfg
+## add bow
+    cfg = combinator.get_classifier_technique_config(bow=True)
+    key = combinator.get_key_for_classifier_config(cfg)
+    toreturn[key] = cfg
+## add bigram
+    cfg = combinator.get_classifier_technique_config(bigram=True)
+    key = combinator.get_key_for_classifier_config(cfg)
+    toreturn[key] = cfg
+## add bow+bigram
+    cfg = combinator.get_classifier_technique_config(bow=True,bigram=True)
+    key = combinator.get_key_for_classifier_config(cfg)
+    toreturn[key] = cfg
+## add bow+lemmatize
+    cfg = combinator.get_classifier_technique_config(bow=True,lemmatize=True)
+    key = combinator.get_key_for_classifier_config(cfg)
+    toreturn[key] = cfg
+## add bow-stopwords
+    cfg = combinator.get_classifier_technique_config(bow=True,remove_stopwords=True)
+    key = combinator.get_key_for_classifier_config(cfg)
+    toreturn[key] = cfg
+## add bow-stopwords+lemmatize
+    cfg = combinator.get_classifier_technique_config(bow=True,remove_stopwords=True,lemmatize=True)
+    key = combinator.get_key_for_classifier_config(cfg)
+    toreturn[key] = cfg
+## add bow+bigram-stopwords+lemmatize
+    cfg = combinator.get_classifier_technique_config(bow=True,bigram=True,remove_stopwords=True,lemmatize=True)
+    key = combinator.get_key_for_classifier_config(cfg)
+    toreturn[key] = cfg
 
     return toreturn
 
