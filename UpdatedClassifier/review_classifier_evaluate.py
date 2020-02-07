@@ -65,10 +65,10 @@ if __name__ == '__main__':
     # cfgs = get_bow_cfg()
     cfgs = get_combined_cfgs_journal_version()
 
-    #run_bin_classifier("Bug", cfgs, "_tt")
-    run_bin_classifier("Feature", cfgs, "_tt")
-    run_bin_classifier("UserExperience", cfgs, "_tt")
-    run_bin_classifier("Rating", cfgs, "_tt")
+    run_bin_classifier("Bug", cfgs, "_tt")
+    #run_bin_classifier("Feature", cfgs, "_tt")
+    #run_bin_classifier("UserExperience", cfgs, "_tt")
+    #run_bin_classifier("Rating", cfgs, "_tt")
     
     # debug_run_all_data("Feature", cfgs, "_tt")
     # debug_run_all_data("UserExperience", cfgs, "_tt")
